@@ -1,0 +1,4 @@
+[submodule "translator/AssetsTools.NET"]
+	path = translator/AssetsTools.NET
+	url = https://github.com/haolink/AssetsTools.NET.git
+	branch = ps5-support
